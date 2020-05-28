@@ -4,7 +4,6 @@ import sys
 
 import requests
 
-print("hello World")
 
 print(sys.version)
 print(sys.executable)
